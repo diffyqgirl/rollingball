@@ -6,3 +6,5 @@ The goal of the game is to collect all the green cubes as quickly as possible wh
 Current plans include improving how I model friction on ice, fixing the bugs to the skybox that were introduced when unity forced an upgrade on me, and tweaking the camera to stop behaving weirdly when you back up aggressively, and fixing the strange behaviour that occasionally allows the user to double jump. 
 
 Another ongoing project is to expand the game to include areas where gravity behaves unexpectedly. 
+
+Run the .exe to play. Move with forwards arrow, turn with left/right arrows, brake with back arrow. Jump with space bar. 
